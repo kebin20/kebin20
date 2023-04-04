@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kebin20&label=Profile%20views&color=9edaff&style=flat" alt="kebin20" /> </p>
 
-- 🔭 I’m currently working on **an English flashcard app for my English students to use**
+- 🔭 I’m currently working on **an English flashcard app for my English students to use to revise their vocabulary**
 
 - 🌱 I’m currently learning **Sass, NextJS, React Router, Firebase Auth**
 
