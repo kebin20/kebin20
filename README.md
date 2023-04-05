@@ -27,7 +27,7 @@ Hey there! I'm a frontend developer from beautiful New Zealand, and I'm always e
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
    </a> 
      <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> 
+    <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> 
    </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>    </a> 
