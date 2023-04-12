@@ -4,7 +4,7 @@
 
 Hey there! I'm a frontend developer from New Zealand, living in Japan now! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
-- 🔭 I’m currently working on **an English flashcard app for my English students to use to revise their vocabulary**
+- 🔭 I’m currently working on **- an English flashcard app for my English students to use to revise their vocabulary, personal protfolio page, ecommerce ladning page & a multi-page website**
 
 - 🌱 I’m currently learning **Sass, NextJS, React Router, Firebase Auth**
 
