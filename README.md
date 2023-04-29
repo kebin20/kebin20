@@ -8,6 +8,8 @@ Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always
 
 - 🌱 I’m currently learning **Sass, NextJS, testing, Firebase Auth**
 
+- 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kebin20)
+
 - 📫 How to reach me ktanzyl@hotmail.com or **👇**
 
 <h3 align="left">Connect with me:</h3>
