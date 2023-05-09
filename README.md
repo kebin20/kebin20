@@ -6,7 +6,7 @@ Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always
 
 - 🔭 I’m currently working on **- an English flashcard app for my English students to use to revise their vocabulary, ecommerce landing page & a multi-page website**
 
-- 🌱 I’m currently learning **Sass, NextJS, testing, Firebase Auth**
+- 🌱 I’m currently learning **Sass, NextJS, testing, Redux**
 
 - 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kebin20)
 
