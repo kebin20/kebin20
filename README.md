@@ -4,9 +4,9 @@
 
 Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
-- 🔭 I’m currently working on **a simple Github user search app using MUI and Axios**
+- 🔭 I’m currently working on **a simple Github user search app using Vue, MUI and Axios**
 
-- 🌱 I’m currently learning **MUI, Axios, NextJS**
+- 🌱 I’m currently learning **Vue, MUI and Axios**
 
 - 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kebin20)
 
@@ -37,6 +37,9 @@ Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+   </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue.svg" alt="vue" width="40" height="40"/> 
    </a> 
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
