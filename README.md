@@ -4,9 +4,9 @@
 
 Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always excited to dive into new technologies and keep up with the latest trends. Learning and growing is a huge passion of mine, and I'm constantly looking for ways to improve my skills. Let's build some awesome stuff together!
 
-- 🔭 I’m currently working on **a simple Github user search app using Vue, MUI and Axios**
+- 🔭 I’m currently working on **a new project to work on using Vue!**
 
-- 🌱 I’m currently learning **Vue, MUI and Axios**
+- 🌱 I’m currently learning **Ruby and Vue**
 
 - 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kebin20)
 
