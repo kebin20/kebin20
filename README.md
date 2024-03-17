@@ -26,8 +26,8 @@ Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
    </a> 
    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <i class="devicon-sass-original colored" alt="scss" width="40" height="40"></i>     
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a> 
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
    </a> 
