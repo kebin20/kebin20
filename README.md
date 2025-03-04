@@ -8,7 +8,7 @@ Hey there! I'm a kiwi web developer, living in Japan now! I'm always excited to 
 
 - 🌱 I’m currently learning **Ruby and Vue**
 
-- 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kaitenzushi20)
+- 📝 See my blog posts to see my key learning takeaways! [kaitenzushi20](https://dev.to/kaitenzushi20)
 
 <hr>
 
