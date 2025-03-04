@@ -10,8 +10,6 @@ Hey there! I'm a web developer from New Zealand, living in Japan now! I'm always
 
 - 📝 See my blog posts to see my key learning takeaways! [kebin20](https://dev.to/kebin20)
 
-- 📫 How to reach me ktanzyl@hotmail.com
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
